@@ -1,5 +1,5 @@
 # BetterRest App
-### App to "determine your optimal bedtime for better rest" 
+### App to determine your "optimal bedtime for better rest" 
 (Educational project, not for actual use)
 
 Uses Machine Learning model built with the CoreML framework. 
